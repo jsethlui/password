@@ -17,6 +17,7 @@ r     Remove label and their respective passwords
 R     Force remove file that saves all passwords
 
 Examples:
+```console
 $ password -c YouTube
 	YouTube Password: m49958Xv$
   
@@ -43,3 +44,4 @@ $ password -R
 	Force remove passwords.txt file [y/n]: y
   
   Succesfully removed all passwords
+```
