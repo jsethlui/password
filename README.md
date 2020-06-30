@@ -43,5 +43,5 @@ $ password -a
 $ password -R
 	Force remove passwords.txt file [y/n]: y
   
-  Succesfully removed all passwords
+    	Succesfully removed all passwords
 ```
